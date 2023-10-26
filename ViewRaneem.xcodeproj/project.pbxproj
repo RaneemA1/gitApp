@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -15,6 +15,7 @@
 		7FCC9F1B2AE8EB7A005C821C /* My_List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCC9F1A2AE8EB7A005C821C /* My_List.swift */; };
 		7FCC9F1D2AE8EBFB005C821C /* Explore_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCC9F1C2AE8EBFB005C821C /* Explore_View.swift */; };
 		7FCC9F1F2AE8ECB8005C821C /* Tab_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCC9F1E2AE8ECB8005C821C /* Tab_View.swift */; };
+		7FCC9F3B2AE90167005C821C /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FCC9F3A2AE90167005C821C /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7FCC9F1A2AE8EB7A005C821C /* My_List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_List.swift; sourceTree = "<group>"; };
 		7FCC9F1C2AE8EBFB005C821C /* Explore_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Explore_View.swift; sourceTree = "<group>"; };
 		7FCC9F1E2AE8ECB8005C821C /* Tab_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab_View.swift; sourceTree = "<group>"; };
+		7FCC9F3A2AE90167005C821C /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				7FCC9F1A2AE8EB7A005C821C /* My_List.swift */,
 				7FCC9F1C2AE8EBFB005C821C /* Explore_View.swift */,
 				7FCC9F1E2AE8ECB8005C821C /* Tab_View.swift */,
+				7FCC9F3A2AE90167005C821C /* ProfileView.swift */,
 			);
 			path = ViewRaneem;
 			sourceTree = "<group>";
@@ -115,7 +118,7 @@
 				};
 			};
 			buildConfigurationList = 7FCC9F002AE8E9A3005C821C /* Build configuration list for PBXProject "ViewRaneem" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -154,6 +157,7 @@
 				7FCC9F1D2AE8EBFB005C821C /* Explore_View.swift in Sources */,
 				7FCC9F172AE8EA47005C821C /* Home_View.swift in Sources */,
 				7FCC9F1F2AE8ECB8005C821C /* Tab_View.swift in Sources */,
+				7FCC9F3B2AE90167005C821C /* ProfileView.swift in Sources */,
 				7FCC9F092AE8E9A3005C821C /* ViewRaneemApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

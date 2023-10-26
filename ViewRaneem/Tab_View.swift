@@ -24,6 +24,8 @@ import SwiftUI
         }
     }
 
-    #Preview {
+struct Tab_View_P: PreviewProvider{
+    static var previews: some View {
         Tab_View()
     }
+}
